@@ -12,3 +12,5 @@ Console.WriteLine("ein paar double values");
 Console.WriteLine($"d: {d}");
 
 Console.WriteLine("ACHTUNG:FastForward Merge");
+
+Console.WriteLine("Jetzt 2 Branches");
