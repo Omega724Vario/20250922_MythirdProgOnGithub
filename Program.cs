@@ -19,3 +19,4 @@ Console.WriteLine("Und jetzt das 4. Feture");
 Console.WriteLine("aber wo ist das 3te?");
 
 Console.WriteLine("egal, hier ein paar bool werte");
+bool doILikeSWP = true;
