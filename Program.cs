@@ -9,3 +9,4 @@ Console.WriteLine("-------------------------------");
 
 double d = 1.1, e = 2.2, f = 3.3;
 Console.WriteLine("ein paar double values");
+Console.WriteLine($"d: {d}");
